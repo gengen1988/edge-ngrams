@@ -1,0 +1,20 @@
+{
+  "name": "edge-ngrams",
+  "version": "0.0.1",
+  "description": "edge ngrams tokenizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gengen1988/edge-ngrams.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gengen1988/edge-ngrams/issues"
+  },
+  "homepage": "https://github.com/gengen1988/edge-ngrams#readme"
+}
